@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaYaRa", "TaYaRa\TaYaRa.csproj", "{77780FC0-31D8-424F-9DF3-3F04C75863E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{945255B8-A59F-43EC-B1A6-8B55840828BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77780FC0-31D8-424F-9DF3-3F04C75863E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77780FC0-31D8-424F-9DF3-3F04C75863E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77780FC0-31D8-424F-9DF3-3F04C75863E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77780FC0-31D8-424F-9DF3-3F04C75863E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945255B8-A59F-43EC-B1A6-8B55840828BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945255B8-A59F-43EC-B1A6-8B55840828BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945255B8-A59F-43EC-B1A6-8B55840828BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945255B8-A59F-43EC-B1A6-8B55840828BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E521099-AC5E-4B8F-9D41-7F8DA89EB545}
+	EndGlobalSection
+EndGlobal
